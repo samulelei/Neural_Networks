@@ -9,6 +9,6 @@ The course assignments consisted of three different cases:
 #### Case 2. Pneumonia X-Ray Image Analysis (binary classification)
 - final version available
 #### Case 3. Patient Drug Review Analysis (categorical classification)
-- work in progress
+- final version available
 
 _Final versions are located in the main folder_
